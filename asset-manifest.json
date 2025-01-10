@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.e17d9589.css",
-    "main.js": "/static/js/main.a5185300.js",
+    "main.js": "/static/js/main.2f1e79c2.js",
     "static/media/megasena.webp": "/static/media/megasena.2cbd95ca794fc5642c88.webp",
     "static/media/lotomania.webp": "/static/media/lotomania.e1356f78336fc402bb65.webp",
     "static/media/lotofacil.webp": "/static/media/lotofacil.902f0c6229a92da161ca.webp",
     "static/media/megavirada.webp": "/static/media/megavirada.fabfe7cc66c890d20449.webp",
     "static/media/time.webp": "/static/media/time.31bda5405e792e4d2a47.webp",
     "static/media/loto.webp": "/static/media/loto.bd4ed9fd737694fe8d31.webp",
+    "static/media/lotofacil1.webp": "/static/media/lotofacil1.6d7c6507d38be7d6aa8a.webp",
     "static/media/mega3.webp": "/static/media/mega3.360b312947fac6d88f8f.webp",
     "static/media/megaresultdo.webp": "/static/media/megaresultdo.351e290ecd46dda2d47f.webp",
     "service-worker.js": "/service-worker.js",
     "index.html": "/index.html",
     "main.e17d9589.css.map": "/static/css/main.e17d9589.css.map",
-    "main.a5185300.js.map": "/static/js/main.a5185300.js.map"
+    "main.2f1e79c2.js.map": "/static/js/main.2f1e79c2.js.map"
   },
   "entrypoints": [
     "static/css/main.e17d9589.css",
-    "static/js/main.a5185300.js"
+    "static/js/main.2f1e79c2.js"
   ]
 }
