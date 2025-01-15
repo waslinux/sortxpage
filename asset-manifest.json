@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d50824eb.css",
-    "main.js": "/static/js/main.969cda10.js",
+    "main.js": "/static/js/main.591c8be0.js",
     "static/media/megasena.webp": "/static/media/megasena.2cbd95ca794fc5642c88.webp",
     "static/media/lotomania.webp": "/static/media/lotomania.e1356f78336fc402bb65.webp",
     "static/media/lotofacil.webp": "/static/media/lotofacil.902f0c6229a92da161ca.webp",
@@ -14,10 +14,10 @@
     "service-worker.js": "/service-worker.js",
     "index.html": "/index.html",
     "main.d50824eb.css.map": "/static/css/main.d50824eb.css.map",
-    "main.969cda10.js.map": "/static/js/main.969cda10.js.map"
+    "main.591c8be0.js.map": "/static/js/main.591c8be0.js.map"
   },
   "entrypoints": [
     "static/css/main.d50824eb.css",
-    "static/js/main.969cda10.js"
+    "static/js/main.591c8be0.js"
   ]
 }
